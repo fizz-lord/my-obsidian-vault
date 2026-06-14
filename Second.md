@@ -1,0 +1,1 @@
+This is the second note from [[Early Note]]
