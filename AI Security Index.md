@@ -1,4 +1,14 @@
+---
+type: vault-note
+status: open
+topic: ai-security
+created: 2026-07-03
+tags: [ai-security, index]
+---
+
 # AI Security Index
+
+**Tags:** `#ai-security #index`
 
 ## Purpose
 Entry point for the AI security research vault.
@@ -6,6 +16,10 @@ Entry point for the AI security research vault.
 ## Core Topics
 - [[AI Red Teaming]]
 - [[Prompt Injection]]
+- [[Prompt Injection as Role Confusion]]
+- [[New MCP Spec Security Implications]]
+- [[LLMPowered Ecosystem Hardening]]
+- [[LLMs and Vulnerability Report Triage]]
 - [[Model Extraction]]
 - [[Jailbreak Techniques]]
 - [[Adversarial Examples]]

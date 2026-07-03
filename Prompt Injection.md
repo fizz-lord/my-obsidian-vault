@@ -1,4 +1,15 @@
+---
+type: research-note
+status: open
+severity: high
+topic: prompt-injection
+created: 2026-07-03
+tags: [prompt-injection, red-teaming, attack-surface]
+---
+
 # Prompt Injection
+
+**Tags:** `#prompt-injection #red-teaming`
 
 ## Overview
 Prompt injection is a class of attack that manipulates model behavior via input.

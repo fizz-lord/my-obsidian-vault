@@ -1,4 +1,15 @@
+---
+type: research-note
+status: open
+severity: medium
+topic: adversarial-examples
+created: 2026-07-03
+tags: [adversarial-examples, ml-security, robustness]
+---
+
 # Adversarial Examples
+
+**Tags:** `#adversarial-examples #model-extraction`
 
 ## Overview
 Adversarial examples use perturbed inputs to fool models.

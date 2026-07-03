@@ -1,4 +1,15 @@
+---
+type: research-note
+status: open
+severity: high
+topic: model-extraction
+created: 2026-07-03
+tags: [model-extraction, red-teaming, api]
+---
+
 # Model Extraction
+
+**Tags:** `#model-extraction #red-teaming`
 
 ## Overview
 Model extraction aims to replicate a proprietary model using API queries.

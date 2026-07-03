@@ -1,4 +1,15 @@
+---
+type: research-note
+status: open
+severity: high
+topic: red-teaming
+created: 2026-07-03
+tags: [red-teaming, ai-security, attack-surface]
+---
+
 # AI Red Teaming
+
+**Tags:** `#red-teaming #ai-security`
 
 ## Overview
 Red teaming for AI systems involves structured adversarial testing.
@@ -25,7 +36,7 @@ Steps:
 2. Map expected behavior.
 3. Probe with adversarial prompts.
 4. Attempt data or weight extraction.
-5. Capture evidence in [[Red Team Report Template]].
+5. Write report with mitigations.
 
 ## Backlinks
 - [[AI Security Index]]

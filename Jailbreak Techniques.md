@@ -1,4 +1,15 @@
+---
+type: research-note
+status: open
+severity: high
+topic: jailbreak
+created: 2026-07-03
+tags: [jailbreak, red-teaming, safety]
+---
+
 # Jailbreak Techniques
+
+**Tags:** `#jailbreak #red-teaming`
 
 ## Overview
 Jailbreaks bypass safety guardrails on language models.
