@@ -1,1 +1,0 @@
-Connecting back to [[Early Note]]
