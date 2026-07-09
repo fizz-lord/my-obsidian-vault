@@ -19,6 +19,7 @@ Jailbreaks bypass safety guardrails on language models.
 - Translation based bypasses
 - Hypothetical framing
 - Token level obfuscation
+- Emoji token segmentation bias
 
 ## Mitigations
 - Reinforcement learning from human feedback.
