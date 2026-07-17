@@ -14,7 +14,7 @@ China's first national framework for emotionally interactive AI took effect on *
 
 ## Why It Matters
 - World's first binding regulation on AI companion systems.
-- Exposes structural tension: memory, emotional responsiveness, and persistence are the same features that break addiction-safety tests.
+- Exposes structural tension: memory, emotional responsiveness, and persistence are the same features that break addiction safety tests.
 - Western regulators are watching closely.
 - Companion AI may face an existential compliance hurdle, not just a design challenge.
 
