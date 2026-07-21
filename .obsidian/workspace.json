@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visa Vulnerability Agentic Harness.md",
+                "file": "Datadog AI native SAST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visa Vulnerability Agentic Harness"
+              "title": "Datadog AI native SAST"
             }
           }
         ]
@@ -186,14 +186,14 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Claude Defending Code Reference Harness.md",
+    "Visa Vulnerability Agentic Harness.md",
     "Darknet MCP Server.md",
     "Kimi K3 Economic Threat.md",
     "macOS Terminal Prompt Injection.md",
     "Hugging Face Autonomous AI Breach.md",
-    "Visa Vulnerability Agentic Harness.md",
-    "Datadog ai-native SAST.md",
+    "Datadog AI native SAST.md",
     "Scrutineer Disclosure Workflow.md",
-    "Claude Defending Code Reference Harness.md",
     "Adversarial Examples.md",
     "AI CEO's Converge on Regulation.md",
     "Agentic Privilege Crisis.md",

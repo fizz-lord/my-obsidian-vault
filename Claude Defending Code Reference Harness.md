@@ -10,11 +10,11 @@ tags: [llm-application-security, vulnerability-hunting, open-source, frontier-mo
 # Claude Defending Code Reference Harness
 
 ## What Happened
-Anthropic released a reference harness for finding vulnerabilities, triaging them, and patching them with **Claude**. It implements a find-grade-patch pipeline inside AddressSanitizer-instrumented Docker containers.
+Anthropic released a reference harness for finding vulnerabilities, triaging them, and patching them with **Claude**. It implements a find grade patch pipeline inside Address Sanitizer instrumented Docker containers.
 
 ## Why It Matters
 - Provides a concrete walkthrough for using frontier models in real vulnerability research pipelines.
-- Shifts Claude from general-purpose agent to repeatable security workflow primitive.
+- Shifts Claude from general purpose agent to repeatable security workflow primitive.
 - Complements Datadog SAIST and Visa harness approaches.
 
 ## Source
