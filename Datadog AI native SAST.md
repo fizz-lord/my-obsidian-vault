@@ -13,8 +13,8 @@ tags: [llm-application-security, sast, open-source, ai-native]
 **Datadog** released a preview stage AI native SAST tool that uses large models to find vulnerabilities in Java, Python, and Go code, then emits SARIF reports. Detection and validation stages use Anthropic, OpenAI, and Gemini models separately.
 
 ## Why It Matters
-- Confirms mainstream security vendors are productising LLM-based code analysis.
-- Detection prompts are fetched from Datadog's hosted API, introducing a new supply-chain trust consideration.
+- Confirms mainstream security vendors are productising LLM based code analysis.
+- Detection prompts are fetched from Datadog's hosted API, introducing a new supply chain trust consideration.
 - Output standardisation via SARIF eases integration into existing CI pipelines.
 
 ## Source
