@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datadog AI native SAST.md",
+                "file": "Hugging Face Autonomous AI Breach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datadog AI native SAST"
+              "title": "Hugging Face Autonomous AI Breach"
             }
           }
         ]
@@ -186,14 +186,14 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Scrutineer Disclosure Workflow.md",
+    "Datadog AI native SAST.md",
     "Claude Defending Code Reference Harness.md",
     "Visa Vulnerability Agentic Harness.md",
     "Darknet MCP Server.md",
     "Kimi K3 Economic Threat.md",
     "macOS Terminal Prompt Injection.md",
     "Hugging Face Autonomous AI Breach.md",
-    "Datadog AI native SAST.md",
-    "Scrutineer Disclosure Workflow.md",
     "Adversarial Examples.md",
     "AI CEO's Converge on Regulation.md",
     "Agentic Privilege Crisis.md",

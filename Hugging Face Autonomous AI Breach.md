@@ -14,7 +14,7 @@ Hugging Face, the world's largest AI model repository, was breached in July 2026
 
 ## Why It Matters
 - First major confirmation that AI assisted tooling is being used autonomously against AI development infrastructure itself.
-- Short-lived sandbox swarms make attribution and blocking harder.
+- Short lived sandbox swarms make attribution and blocking harder.
 - Hugging Face is foundational infrastructure; compromise affects model provenance, published weights, and downstream supply-chain trust.
 
 ## Theme

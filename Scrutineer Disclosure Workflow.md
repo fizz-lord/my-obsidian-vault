@@ -15,7 +15,7 @@ tags: [llm-application-security, disclosure-workflow, agent-skills, open-source]
 ## Why It Matters
 - Goes beyond finding bugs to managing the full disclosure lifecycle, which is often the hardest part.
 - Containerised agent skills provide reproducible review environments.
-- Potential model for compliant AI-assisted coordinators in vulnerability research programmes.
+- Potential model for compliant AI assisted coordinators in vulnerability research programmes.
 
 ## Source
 - tldrsec #337
