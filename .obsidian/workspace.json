@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hugging Face Autonomous AI Breach.md",
+                "file": "LLM Powered EDR Evasion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hugging Face Autonomous AI Breach"
+              "title": "LLM Powered EDR Evasion"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "OpenAI Models Used in Hugging Face Breach.md",
+    "Hugging Face Autonomous AI Breach.md",
     "Scrutineer Disclosure Workflow.md",
     "Datadog AI native SAST.md",
     "Claude Defending Code Reference Harness.md",
@@ -193,7 +195,6 @@
     "Darknet MCP Server.md",
     "Kimi K3 Economic Threat.md",
     "macOS Terminal Prompt Injection.md",
-    "Hugging Face Autonomous AI Breach.md",
     "Adversarial Examples.md",
     "AI CEO's Converge on Regulation.md",
     "Agentic Privilege Crisis.md",
@@ -226,7 +227,6 @@
     "src/site/img/default-note-icon.svg",
     "src/site/favicon.svg",
     "LLM Powered Ecosystem Hardening.md",
-    "US Jailbreak Benchmark.md",
-    "UBTECH U1 Identity Replication Risk.md"
+    "US Jailbreak Benchmark.md"
   ]
 }
