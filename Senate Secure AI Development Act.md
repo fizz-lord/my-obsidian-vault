@@ -20,4 +20,8 @@ First US federal bill directly targeting the model release pipeline for dual use
 ## Source
 https://www.vitallaw.com/news/senate-bill-would-require-prerelease-testing-of-cyber-capable-ai-models/cspd01721b42bea0dc4e38a26b804b8ea3d48b
 
+## Related
+- [[AI Security Index]]
+- [[AI CEOs Converge on Regulation]]
+
 #ai-security #regulation #nsa #frontier-models #legislation

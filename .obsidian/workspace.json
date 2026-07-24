@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Weight Model Poisoning via Fine Tuning.md",
+                "file": "Pliny T3MP3ST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Weight Model Poisoning via Fine Tuning"
+              "title": "Pliny T3MP3ST"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
-    "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
     "Open Weight Model Poisoning via Fine Tuning.md",
+    "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
     "Practitioner Pulse.md",
     "Senate Secure AI Development Act.md",
     "Sandworm_Mode Malware Living Off the AI Toolchain.md",
