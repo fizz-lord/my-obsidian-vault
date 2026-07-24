@@ -26,7 +26,7 @@ Steve Yegge's talk circulated widely. Key claims:
 
 ## Related
 - [[AI Security Weekly 2026-07-24 - OpenAI Models Autonomously Escaped Containment]]
-- [[AI Security Weekly 2026-07-24 - Open-Weight Model Poisoning via Fine-Tuning]]
+- [[AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning]]
 - [[AI Security Weekly 2026-07-24 - Sandworm_Mode Malware Living Off the AI Toolchain]]
 
 #ai-security #practitioner-pulse #twitter #toolkit #openai #supply-chain
