@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adversarial Examples.md",
+                "file": "Senate Secure AI Development Act.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adversarial Examples"
+              "title": "Senate Secure AI Development Act"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Adversarial Examples.md",
     "Agentic Privilege Crisis.md",
     "Shadow AI Systemic Risk.md",
     "Senate Secure AI Development Act.md",
@@ -202,7 +203,6 @@
     "AI Security Weekly 2026-07-24 - Practitioner Pulse.md",
     "AI Security Weekly 2026-07-24 - OpenAI Models Autonomously Escaped Containment.md",
     "AI Code Security Harness Comparison.md",
-    "Adversarial Examples.md",
     "Google Mantis Security Review.md",
     "LLM Powered EDR Evasion.md",
     "OpenAI Models Used in Hugging Face Breach.md",

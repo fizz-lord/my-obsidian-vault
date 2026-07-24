@@ -9,7 +9,7 @@ tags:
   - legislation
 ---
 
-# Senate "Secure AI Development Act" Would Mandate NSA Pre Release Testing for Cyber-Capable Frontier Models
+# Senate "Secure AI Development Act" Would Mandate NSA Pre Release Testing for Cyber Capable Frontier Models
 
 ## What
 Sen. Mark Warner (D-VA) introduced legislation requiring developers of frontier AI models with cybersecurity capabilities to register with NIST and submit models to an NSA led AI Security Centre 21 days before public release. Models would undergo mandatory pre deployment evaluation for offensive cyber capabilities.
