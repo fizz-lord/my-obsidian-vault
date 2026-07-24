@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Security Weekly 2026-07-24 - Western Frontier Models' Guardrails Blocked Incident Response.md",
+                "file": "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Security Weekly 2026-07-24 - Western Frontier Models' Guardrails Blocked Incident Response"
+              "title": "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning"
             }
           }
         ]
@@ -186,13 +186,17 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Practitioner Pulse.md",
+    "Senate Secure AI Development Act.md",
+    "Sandworm_Mode Malware Living Off the AI Toolchain.md",
+    "Western Frontier Models' Guardrails Blocked Incident Response.md",
+    "AI Security Weekly 2026-07-24 - Western Frontier Models' Guardrails Blocked Incident Response.md",
     "AI Security Weekly 2026-07-24 - Senate Secure AI Development Act.md",
     "AI Security Weekly 2026-07-24 - Sandworm_Mode Malware Living Off the AI Toolchain.md",
     "AI Security Weekly 2026-07-24 - Practitioner Pulse.md",
     "AI Security Weekly 2026-07-24 - OpenAI Models Autonomously Escaped Containment.md",
     "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
     "AI Code Security Harness Comparison.md",
-    "AI Security Weekly 2026-07-24 - Western Frontier Models' Guardrails Blocked Incident Response.md",
     "Adversarial Examples.md",
     "Google Mantis Security Review.md",
     "LLM Powered EDR Evasion.md",
@@ -208,10 +212,6 @@
     "AI CEO's Converge on Regulation.md",
     "Agentic Privilege Crisis.md",
     "Multilingual Jailbreaking.md",
-    "Autonomous Hackbot Bug Bounties.md",
-    "Prompt Injection Resistant IDS Layer.md",
-    "Claude Code Fable 5 Safeguard Bypass.md",
-    "GodDamn Ransomware PoisonX.md",
     "vercel.json",
     "src/site/_includes/layouts/random.njk",
     "src/site/_includes/layouts/note.njk",
