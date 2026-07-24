@@ -14,7 +14,7 @@ Security researcher Johann Rehberger disclosed a proof of concept that turns **i
 
 ## Why It Matters
 - Broadens the attack surface for prompt injection beyond web UIs into local developer tooling.
-- Terminal and shell-bound agents are now in scope for indirect injection.
+- Terminal and shell bound agents are now in scope for indirect injection.
 - Fix is OS-level, which means similar patterns likely exist in other terminal products.
 
 ## Source
