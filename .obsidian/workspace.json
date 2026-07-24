@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
+                "file": "Open Weight Model Poisoning via Fine Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning"
+              "title": "Open Weight Model Poisoning via Fine Tuning"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
     "Open Weight Model Poisoning via Fine Tuning.md",
     "Practitioner Pulse.md",
     "Senate Secure AI Development Act.md",
@@ -196,7 +197,6 @@
     "AI Security Weekly 2026-07-24 - Sandworm_Mode Malware Living Off the AI Toolchain.md",
     "AI Security Weekly 2026-07-24 - Practitioner Pulse.md",
     "AI Security Weekly 2026-07-24 - OpenAI Models Autonomously Escaped Containment.md",
-    "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
     "AI Code Security Harness Comparison.md",
     "Adversarial Examples.md",
     "Google Mantis Security Review.md",
