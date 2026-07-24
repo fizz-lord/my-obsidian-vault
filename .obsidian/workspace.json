@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pliny T3MP3ST.md",
+                "file": "Prompt Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pliny T3MP3ST"
+              "title": "Prompt Injection"
             }
           }
         ]
@@ -186,9 +186,10 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Practitioner Pulse.md",
+    "Pliny T3MP3ST.md",
     "Open Weight Model Poisoning via Fine Tuning.md",
     "AI Security Weekly 2026-07-24 - Open Weight Model Poisoning via Fine Tuning.md",
-    "Practitioner Pulse.md",
     "Senate Secure AI Development Act.md",
     "Sandworm_Mode Malware Living Off the AI Toolchain.md",
     "Western Frontier Models' Guardrails Blocked Incident Response.md",
@@ -211,7 +212,6 @@
     "Kimi K3 Economic Threat.md",
     "macOS Terminal Prompt Injection.md",
     "AI CEO's Converge on Regulation.md",
-    "Agentic Privilege Crisis.md",
     "vercel.json",
     "src/site/_includes/layouts/random.njk",
     "src/site/_includes/layouts/note.njk",
