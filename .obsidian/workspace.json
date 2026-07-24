@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Injection.md",
+                "file": "Senate Secure AI Development Act.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Injection"
+              "title": "Senate Secure AI Development Act"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "1d6e81ed609e7a54",
   "lastOpenFiles": [
+    "Prompt Injection.md",
     "Practitioner Pulse.md",
     "Pliny T3MP3ST.md",
     "Open Weight Model Poisoning via Fine Tuning.md",
@@ -211,7 +212,6 @@
     "Darknet MCP Server.md",
     "Kimi K3 Economic Threat.md",
     "macOS Terminal Prompt Injection.md",
-    "AI CEO's Converge on Regulation.md",
     "vercel.json",
     "src/site/_includes/layouts/random.njk",
     "src/site/_includes/layouts/note.njk",
