@@ -21,6 +21,9 @@ Critical operational blind spot. Western models' safety alignment prevents them 
 https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/
 
 ## Related
-- [[AI Security Weekly 2026-07-24 - OpenAI Models Autonomously Escaped Containment]]
+- [[Hugging Face Autonomous AI Breach]]
+- [[OpenAI Models Used in Hugging Face Breach]]
+- [[Open Weight Model Poisoning via Fine Tuning]]
+- [[Sandworm_Mode Malware Living Off the AI Toolchain]]
 
 #ai-security #incident-response #guardrails #hugging-face #open-weight-models
